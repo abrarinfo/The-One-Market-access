@@ -42,9 +42,9 @@
     width: 200px;
 }
 #top-hedding{
-    color: blue;
+    color: white;
     margin: 20px;
-    font-weight: 700;
+    font-weight: 550;
 }
 .ownerHedding{
     color: navy;
@@ -53,4 +53,7 @@
 .owner-title{
     background-color: whitesmoke;
     border-radius: 5%;
+}
+.bg-color{
+    background-color: whitesmoke;
 }
