@@ -1,0 +1,56 @@
+/* .panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 2em;
+}
+.panda-slide{
+    margin: 5%;
+}
+.panda-stay{
+    background-color: #fceae8;
+} */
+
+.carasol-bg{
+    background-color: #fceae8;
+}
+.item-price{
+    color: blue;
+    font-size: xx-large;
+    margin-right: 100px;
+}
+.button-1{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    background: linear-gradient( darkblue, blue);
+    border: none;
+    margin-bottom: 5px;
+}
+.logo{
+    height: 50px;
+    width: 200px;
+}
+#top-hedding{
+    color: blue;
+    margin: 20px;
+    font-weight: 700;
+}
+.ownerHedding{
+    color: navy;
+    margin: 2%;
+}
+.owner-title{
+    background-color: whitesmoke;
+    border-radius: 5%;
+}
